@@ -4,6 +4,10 @@ authors = []
 description = ""
 telemetry = false
 requirements = []
+[contracts.dispute]
+path = "contracts/dispute.clar"
+depends_on = []
+
 [contracts.quantum-ride]
 path = "contracts/quantum-ride.clar"
 depends_on = []
